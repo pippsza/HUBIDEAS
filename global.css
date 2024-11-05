@@ -1,3 +1,29 @@
-.fsjf {
-  size-adjust: faf;
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+* {
+  background-color: #dee6ec;
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  border-radius: 20px;
+}
+.boxes-containers {
+  max-width: 288px;
+}
+@media screen and (min-width: 768px) {
+  .boxes-containers {
+    max-width: 735px;
+  }
+}
+@media screen and (min-width: 1158px) {
+  .boxes-containers {
+    max-width: 1380px;
+  }
+}
+
+img {
+  display: block;
+}
+ul,
+a {
+  text-decoration: none;
+  list-style-type: none;
 }
