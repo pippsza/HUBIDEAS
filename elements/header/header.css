@@ -124,3 +124,12 @@
     display: none;
   }
 }
+
+.menu-svg-list {
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu-svg {
+  fill: blue;
+}
