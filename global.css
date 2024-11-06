@@ -3,12 +3,12 @@
   background-color: #dee6ec;
   font-family: "Montserrat", sans-serif;
   margin: 0;
-  border-radius: 20px;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25), 0 -4px 4px 0 rgba(0, 0, 0, 0.25),
-    -4px 0 4px 0 rgba(0, 0, 0, 0.25), 4px 0 4px 0 rgba(0, 0, 0, 0.25);
 }
 .boxes-containers {
   max-width: 288px;
+  border-radius: 20px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25), 0 -4px 4px 0 rgba(0, 0, 0, 0.25),
+    -4px 0 4px 0 rgba(0, 0, 0, 0.25), 4px 0 4px 0 rgba(0, 0, 0, 0.25);
 }
 @media screen and (min-width: 768px) {
   .boxes-containers {
