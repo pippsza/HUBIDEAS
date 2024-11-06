@@ -36,7 +36,9 @@ img {
   display: block;
 }
 ul,
+ol,
 a {
   text-decoration: none;
   list-style-type: none;
+  padding: 0;
 }
