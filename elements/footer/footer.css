@@ -15,13 +15,13 @@
     height: 240px;
   }
 }
-.burger-svg {
+.burger-svg-footer {
   fill: #ffff;
   stroke: #ffff;
   height: 40px;
   width: 40px;
 }
-.burger-button {
+.burger-button-footer {
   background-color: #4190de;
   border: none;
   width: 40px;
