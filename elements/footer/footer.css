@@ -34,7 +34,7 @@
   fill: black;
 }
 @media screen and (min-width: 768px) {
-  .burger-button {
+  .burger-button-footer {
     display: none;
   }
 }
