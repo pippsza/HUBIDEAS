@@ -1,13 +1,13 @@
 .question-section {
   background-color: #ffb510;
-  height: 240px;
+  height: 290px;
 
   align-items: center;
   padding: 32px 5px 32px 5px;
 }
 @media screen and (min-width: 768px) {
   .question-section {
-    height: 200px;
+    height: 220px;
     padding: 20px 45px 20px 45px;
   }
 }
@@ -29,7 +29,7 @@
 }
 @media screen and (min-width: 1158px) {
   .question-section {
-    height: 240px;
+    height: 260px;
     padding: 35px 50px 35px 50px;
   }
   .question-section-p {
@@ -58,6 +58,11 @@
 @media screen and (min-width: 768px) {
   .question-section-inscription {
     flex-direction: row;
+  }
+}
+@media screen and (min-width: 768px) {
+  .question-section-item-margin {
+    margin-bottom: 0;
   }
 }
 .question-section-item-margin {
